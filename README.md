@@ -4,10 +4,10 @@ The purpose of this is to create a server that will create, read, update and, de
 
 ## Getting Started
 Things to do:
-`
+```
 npm init -y
 npm install --save express body-parser
-`
+```
 
 ## Goal
 
