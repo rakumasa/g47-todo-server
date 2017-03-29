@@ -1,6 +1,6 @@
 # Todo list server
 
-The purpose of this is to create a server that will create, read, update and, delete todos.
+The purpose of this is to create a server that will create, read, update and, delete todos. If you want to use `fs.readFile` and `fs.writeFile`, you are more than welcome to so your changes to `todos.json` will persist after you restart the server OR you can just require the `todos.json` file. Either way is fine.
 
 ## Getting Started
 Things to do:
