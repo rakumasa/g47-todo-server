@@ -8,6 +8,9 @@ Things to do:
 npm init -y
 npm install --save express body-parser
 ```
+- Require both `express` and `body-parser` at the top of `server.js`.
+- Instantiate the server by assigning `express()` to a variable.
+- Add `app.use(bodyParser.json())` to make sure that `req.body` will parse correctly.
 
 ## Goal
 
