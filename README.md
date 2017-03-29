@@ -4,7 +4,7 @@ The purpose of this is to create a server that will create, read, update and, de
 
 ### Goal
 
-Create a server that allows you to add and retrieve todos using Postman.
+Create a server that allows you to add and retrieve one or all todos using Postman.
 
 ### Stretch
 
